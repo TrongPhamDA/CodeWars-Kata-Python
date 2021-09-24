@@ -4,6 +4,6 @@
 ### My [CodeWars](https://www.codewars.com/users/TrongPhamDA/) Kata Python solutions.
 User name: [TrongPhamDA](https://www.codewars.com/users/TrongPhamDA/)<br/>
 [![codewars rank](https://www.codewars.com/users/TrongPhamDA/badges/large)](https://www.codewars.com/users/TrongPhamDA/)  
-Solved more then 10 katas(problems).
-
+Solved more then 10 katas (problems).<br/>
+<br/>
 You can find my solution videos on [YouTube](https://www.youtube.com/channel/UCDHQc9f-TiWGvRugggKpvcQ)
