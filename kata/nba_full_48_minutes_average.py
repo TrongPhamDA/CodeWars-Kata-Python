@@ -13,11 +13,11 @@ Notes:
 All inputs will be either be an integer or float.
 '''
 
-def nba_extrap(ppg, mpg):
-    try:
-        return round(48 / mpg * ppg, 1)
-    except ZeroDivisionError:
-        return 0
+# def nba_extrap(ppg, mpg):
+#     try:
+#         return round(48 / mpg * ppg, 1)
+#     except ZeroDivisionError:
+#         return 0
 
 def nba_extrap(ppg, mpg):
     return round(48 / mpg * ppg, 1) if mpg > 0 else 0
